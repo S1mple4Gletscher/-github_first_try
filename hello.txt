@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout << "就是个第九课的演示" << endl;
+return 0;
+
+}
